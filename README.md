@@ -22,7 +22,7 @@ open your terminal and run the code
   <br>
   <img width="960" alt="image" src="https://github.com/user-attachments/assets/ab3b5ce1-a8bb-41d1-9352-564f498a413f" />
 
-**Output of the Project**
+**Output of the Project...**
 <br>
 <br>
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/7bf1fad1-25c8-4ea8-b8fb-0ab41a60e624" />
